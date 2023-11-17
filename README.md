@@ -1,5 +1,5 @@
 # Sounding Rocket Trajectory Visualization
-The workflows outlined involve Bash and Python scripting. An installation of WSL (on Windows) with the following Python libraries are required:
+The workflow outlined below involves Bash and Python scripting. An installation of WSL (on Windows) with the following Python libraries are required:
 - Numpy
 - Scipy
 - Matplotlib
